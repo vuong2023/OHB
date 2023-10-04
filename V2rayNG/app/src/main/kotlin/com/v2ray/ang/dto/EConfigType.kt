@@ -1,4 +1,4 @@
-package com.v2ray.ang.dto
+package com.ohb.ang.dto
 
 enum class EConfigType(val value: Int, val protocolScheme: String) {
     VMESS(1, "vmess://"),
